@@ -19,6 +19,9 @@
   color: white;
 }
 
+hr {
+  width: 30%;
+}
 .App-link {
   color: #61dafb;
 }
