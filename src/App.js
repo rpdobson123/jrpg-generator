@@ -27,9 +27,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1 className="petite-caps">{titleText}</h1>
         <h3>{introText}</h3>
         <hr />
-        <h2>{titleText}</h2>
+        <div className="petite-caps">Feature</div>
         <ul>
           {features.map(feature => (
             <li>{feature}</li>
