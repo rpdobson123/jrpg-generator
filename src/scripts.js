@@ -4,26 +4,25 @@ export default {
       "industryIdiom",
       "mdNum",
       "*years in the making.",
-      "engrishCallToAction"
-      // "engrishCallToAction"
+      "engrishCallToAction",
     ],
     [
       "protagonistName",
       "sequelRationale",
       "engrishCallToAction",
-      "ominousCallToAction"
-    ]
+      "ominousCallToAction",
+    ],
   ],
   features: [
     ["mdNum", "*+ Hours of Story"],
     ["techBuzzword", "system", "system"],
     ["techBuzzword", "system"],
     ["techBuzzword", "techBuzzword"],
-    ["lgNum", "collectible"]
+    ["lgNum", "collectible"],
   ],
   title: [
     ["fantasyAdjective", "fantasyNoun"],
     ["fantasyAdjective", "fantasyNoun", "*:", "prefix", "postfix"],
-    ["fantasyAdjective", "fantasyNoun", "smNum"]
-  ]
+    ["fantasyAdjective", "fantasyNoun", "smNum"],
+  ],
 };
