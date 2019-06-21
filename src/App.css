@@ -19,6 +19,12 @@
   color: white;
 }
 
+.petite-caps {
+  font-variant: all-petite-caps;
+}
+ul {
+  text-align: left;
+}
 hr {
   width: 30%;
 }
