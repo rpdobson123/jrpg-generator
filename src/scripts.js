@@ -18,6 +18,7 @@ export default {
     ["mdNum", "*+ Hours of Story"],
     ["techBuzzword", "system", "system"],
     ["techBuzzword", "system"],
+    ["techBuzzword", "techBuzzword"],
     ["lgNum", "collectible"]
   ],
   title: [
